@@ -3,6 +3,9 @@
 This particular project is a Power BI dashboard created as part of my portfolio for Junior Data analyst role
 The goal of the project is to analyze sales performance and profitability on marketplace across different dimensions and demonstrate practical skills in data preprocesing, modeling, and business analysis.
 
+## Data used
+https://docs.google.com/spreadsheets/d/1OObWrvhvYo5_PsLNpYN3ngbgXCMqc112TBvVsPGv9iY/edit?usp=sharing
+
 ## Business objectives
 - Evaluation of business performance
 - Revenue tracking
